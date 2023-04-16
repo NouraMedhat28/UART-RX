@@ -33,3 +33,4 @@
 </br>
 1: Odd parity bit
 ### Simulation on Modelsim
+![Screenshot (22)](https://user-images.githubusercontent.com/96621514/232344347-7e04fc66-c0f6-4c44-b3e3-ef30ec163660.png)
